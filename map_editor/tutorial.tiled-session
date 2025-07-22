@@ -1,0 +1,38 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tilesets/tmw_desert_spacing.tsx",
+    "expandedProjectPaths": [
+        "maps",
+        "tilesets",
+        "."
+    ],
+    "fileStates": {
+        "maps/map1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 280.66666666666663,
+                "y": 313.66666666666663
+            }
+        },
+        "tilesets/tmw_desert_spacing.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Program Files/Tiled/examples",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "maps/map1.tmx",
+        "tilesets/tmw_desert_spacing.tsx"
+    ],
+    "project": "tutorial.tiled-project",
+    "recentFiles": [
+        "maps/map1.tmx",
+        "tilesets/tmw_desert_spacing.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
